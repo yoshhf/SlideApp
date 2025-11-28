@@ -11,8 +11,9 @@ export default function HomePage() {
     "/gallery/img2.jpeg",
     "/gallery/img3.jpeg",
     "/gallery/img4.jpeg",
+    "/gallery/img5.jpeg",
+    "/gallery/img6.jpeg",
   ];
-
   const [index, setIndex] = useState(0);
   const controls = useControls();
 
